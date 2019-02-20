@@ -1,2 +1,2 @@
-# nicknames-spigot-
+# nicknames
 set nicknames for yourself (spigot)
