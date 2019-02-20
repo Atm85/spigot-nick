@@ -1,0 +1,19 @@
+name: nicknames
+main: com.stephen.nicknames.Main
+version: 1.0
+author: iAtomPlaza
+commands:
+  nickname:
+    description: Change your in-game name with /nickname or /nick
+    aliases:
+      - nn
+      - nick
+
+permissions:
+  nickname.cmd.use:
+    description: Alows use of nickname plugin
+    default: true
+
+  nickname.cmd.change.other:
+    description: Change another players name
+    default: op
